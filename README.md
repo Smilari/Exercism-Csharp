@@ -11,4 +11,4 @@ My solutions for C# track at [Exercism](https://exercism.org/profiles/Smilari).
 | Log Levels                | Strings                 | Learn about strings by processing logs.                              | **Completed**   |
 | Log Analysis              | Extension Methods       | Learn about extension-methods by analyzing logs.                     | **Completed**   |
 | Phone Number Analysis     | Tuples                  | Learn about tuples by analyzing phone numbers.                       | **Completed**   |
-| Cars, Assemble!           | If Statements - Numbers | Learn about numbers by analyzing the production of an assembly line. | **In-Progress** |
+| Cars, Assemble!           | If Statements           | Learn about numbers by analyzing the production of an assembly line. | **Completed**   |
