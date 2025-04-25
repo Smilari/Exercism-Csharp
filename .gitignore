@@ -1,0 +1,8 @@
+# Exercism-specific
+.exercism/
+
+# .NET
+bin/
+obj/
+*.userprefs
+packages.lock.json
