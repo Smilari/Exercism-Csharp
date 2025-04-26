@@ -16,3 +16,4 @@ My solutions for C# track at [Exercism](https://exercism.org/profiles/Smilari).
 | Tim from Marketing        | Nullability       | Learn about nullables by printing name badges.                             | **Completed** |
 | Interest is Interesting   | Do While Loops    | Learn about floating point numbers by adding interest to savings accounts. | **Completed** |
 | Roll the Die!             | Randomness        | Learn about randomness by generating numbers in a game.                    | **Completed** |
+| Need for Speed            | Constructors      | Learn about classes by creating cars.                                      | **Completed** |
