@@ -15,3 +15,4 @@ My solutions for C# track at [Exercism](https://exercism.org/profiles/Smilari).
 | Jedlik's Toys             | Classes           | Learn about classes by working on a remote controlled car.                 | **Completed** |
 | Tim from Marketing        | Nullability       | Learn about nullables by printing name badges.                             | **Completed** |
 | Interest is Interesting   | Do While Loops    | Learn about floating point numbers by adding interest to savings accounts. | **Completed** |
+| Roll the Die!             | Randomness        | Learn about randomness by generating numbers in a game.                    | **Completed** |
