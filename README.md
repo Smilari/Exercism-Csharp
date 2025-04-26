@@ -12,3 +12,4 @@ My solutions for C# track at [Exercism](https://exercism.org/profiles/Smilari).
 | Log Analysis              | Extension Methods       | Learn about extension-methods by analyzing logs.                     | **Completed**   |
 | Phone Number Analysis     | Tuples                  | Learn about tuples by analyzing phone numbers.                       | **Completed**   |
 | Cars, Assemble!           | If Statements           | Learn about numbers by analyzing the production of an assembly line. | **Completed**   |
+| Jedlik's Toys             | Classes		      | Learn about classes by working on a remote controlled car.           | **Completed**   |
