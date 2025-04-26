@@ -4,16 +4,179 @@ My solutions for C# track at [Exercism](https://exercism.org/profiles/Smilari).
 
 ## 📖 Progress
 
-| Exercise                  | Category          | Description                                                                | Status        |
-| ------------------------- | ----------------- | -------------------------------------------------------------------------- | ------------- |
-| Lucian's Luscious Lasagna | Basics            | Learn about the basics of C# by following a lasagna recipe.                | **Completed** |
-| Annalyn's Infiltration    | Booleans          | Learn about Booleans while helping Annalyn rescue her friend.              | **Completed** |
-| Log Levels                | Strings           | Learn about strings by processing logs.                                    | **Completed** |
-| Log Analysis              | Extension Methods | Learn about extension-methods by analyzing logs.                           | **Completed** |
-| Phone Number Analysis     | Tuples            | Learn about tuples by analyzing phone numbers.                             | **Completed** |
-| Cars, Assemble!           | If Statements     | Learn about numbers by analyzing the production of an assembly line.       | **Completed** |
-| Jedlik's Toys             | Classes           | Learn about classes by working on a remote controlled car.                 | **Completed** |
-| Tim from Marketing        | Nullability       | Learn about nullables by printing name badges.                             | **Completed** |
-| Interest is Interesting   | Do While Loops    | Learn about floating point numbers by adding interest to savings accounts. | **Completed** |
-| Roll the Die!             | Randomness        | Learn about randomness by generating numbers in a game.                    | **Completed** |
-| Need for Speed            | Constructors      | Learn about classes by creating cars.                                      | **Completed** |
+| Exercise                          | Category                                  | Status                                             |
+| --------------------------------- | ----------------------------------------- | -------------------------------------------------- |
+| Hello World                       | Introduction                              | <span style="color:lightgreen;">Completed</span>   |
+| Bird Watcher                      | Arrays - For Loops - Foreach Loops        | <span style="color:lightgreen;">Completed</span>   |
+| Lucian's Luscious Lasagna         | Basics                                    | <span style="color:lightgreen;">Completed</span>   |
+| Annalyn's Infiltration            | Booleans                                  | <span style="color:lightgreen;">Completed</span>   |
+| Secure Munchester United          |                                           | <span style="color:lightcoral;">Not started</span> |
+| Squeaky Clean                     |                                           | <span style="color:lightcoral;">Not started</span> |
+| Jedlik's Toys                     | Classes                                   | <span style="color:lightgreen;">Completed</span>   |
+| Authentication System             |                                           | <span style="color:lightcoral;">Not started</span> |
+| Need for Speed                    | Constructors                              | <span style="color:lightgreen;">Completed</span>   |
+| Booking up for Beauty             | Datetimes                                 | <span style="color:lightcoral;">Not started</span> |
+| International Calling Connoisseur |                                           | <span style="color:lightcoral;">Not started</span> |
+| Logs, Logs, Logs!                 |                                           | <span style="color:lightcoral;">Not started</span> |
+| Face ID 2.0                       |                                           | <span style="color:lightcoral;">Not started</span> |
+| Calculator Conundrum              |                                           | <span style="color:lightcoral;">Not started</span> |
+| The Weather in Deather            |                                           | <span style="color:lightcoral;">Not started</span> |
+| Interest is Interesting           | Do While Loops - Floating Point           | <span style="color:lightgreen;">Completed</span>   |
+| Wizards and Warriors              | Inheritance                               | <span style="color:lightcoral;">Not started</span> |
+| Hyper-optimized Telemetry         |                                           | <span style="color:lightcoral;">Not started</span> |
+| Remote Control Competition        |                                           | <span style="color:lightcoral;">Not started</span> |
+| Tracks on Tracks on Tracks        |                                           | <span style="color:lightcoral;">Not started</span> |
+| Wizards and Warriors 2.0          |                                           | <span style="color:lightcoral;">Not started</span> |
+| Red vs. Blue: Darwin Style        |                                           | <span style="color:lightcoral;">Not started</span> |
+| Remote Control Cleanup            |                                           | <span style="color:lightcoral;">Not started</span> |
+| Tim from Marketing                | Nullability                               | <span style="color:lightgreen;">Completed</span>   |
+| Cars, Assemble!                   | If Statements                             | <span style="color:lightgreen;">Completed</span>   |
+| Developer Privileges              |                                           | <span style="color:lightcoral;">Not started</span> |
+| Hyperia Forex                     |                                           | <span style="color:lightcoral;">Not started</span> |
+| Hyperinflation Hits Hyperia       |                                           | <span style="color:lightcoral;">Not started</span> |
+| Building Telemetry                |                                           | <span style="color:lightcoral;">Not started</span> |
+| Weighing Machine                  |                                           | <span style="color:lightcoral;">Not started</span> |
+| Roll the Die!                     | Randomness                                | <span style="color:lightgreen;">Completed</span>   |
+| Parsing Log Files                 |                                           | <span style="color:lightcoral;">Not started</span> |
+| Object Relational Mapping         |                                           | <span style="color:lightcoral;">Not started</span> |
+| Orm in One Go                     |                                           | <span style="color:lightcoral;">Not started</span> |
+| High School Sweethearts           |                                           | <span style="color:lightcoral;">Not started</span> |
+| Log Levels                        | Strings                                   | <span style="color:lightgreen;">Completed</span>   |
+| Land Grab in Space                |                                           | <span style="color:lightcoral;">Not started</span> |
+| Football Match Reports            |                                           | <span style="color:lightcoral;">Not started</span> |
+| Beauty Salon Goes Global          |                                           | <span style="color:lightcoral;">Not started</span> |
+| Phone Number Analysis             | Tuples                                    | <span style="color:lightgreen;">Completed</span>   |
+| Instruments of Texas              |                                           | <span style="color:lightcoral;">Not started</span> |
+| Log Analysis                      | Extension Methods                         | <span style="color:lightgreen;">Completed</span>   |
+| Two Fer                           |                                           | <span style="color:lightcoral;">Not started</span> |
+| Leap                              | If Statements - Numbers                   | <span style="color:lightcoral;">Not started</span> |
+| Gigasecond                        | Datetimes                                 | <span style="color:lightcoral;">Not started</span> |
+| Resistor Color                    | Arrays                                    | <span style="color:lightcoral;">Not started</span> |
+| Space Age                         | Floating Point - Classes                  | <span style="color:lightcoral;">Not started</span> |
+| High Scores                       |                                           | <span style="color:lightcoral;">Not started</span> |
+| Hamming                           | If Statements - For Loops                 | <span style="color:lightcoral;">Not started</span> |
+| Nucleotide Count                  |                                           | <span style="color:lightcoral;">Not started</span> |
+| Robot Name                        | Randomness - Classes                      | <span style="color:lightcoral;">Not started</span> |
+| Allergies                         |                                           | <span style="color:lightcoral;">Not started</span> |
+| Grade School                      |                                           | <span style="color:lightcoral;">Not started</span> |
+| Rotational Cipher                 | Strings                                   | <span style="color:lightcoral;">Not started</span> |
+| Circular Buffer                   |                                           | <span style="color:lightcoral;">Not started</span> |
+| Clock                             | Numbers                                   | <span style="color:lightcoral;">Not started</span> |
+| Bob                               | Strings - Extension Methods               | <span style="color:lightcoral;">Not started</span> |
+| Matching Brackets                 |                                           | <span style="color:lightcoral;">Not started</span> |
+| Spiral Matrix                     | Numbers                                   | <span style="color:lightcoral;">Not started</span> |
+| Tournament                        |                                           | <span style="color:lightcoral;">Not started</span> |
+| Variable Length Quantity          |                                           | <span style="color:lightcoral;">Not started</span> |
+| Dominoes                          | Tuples                                    | <span style="color:lightcoral;">Not started</span> |
+| Forth                             |                                           | <span style="color:lightcoral;">Not started</span> |
+| Pangram                           | Strings                                   | <span style="color:lightcoral;">Not started</span> |
+| Isogram                           | Strings                                   | <span style="color:lightcoral;">Not started</span> |
+| Acronym                           | Strings                                   | <span style="color:lightcoral;">Not started</span> |
+| Grains                            |                                           | <span style="color:lightcoral;">Not started</span> |
+| Perfect Numbers                   | Numbers                                   | <span style="color:lightcoral;">Not started</span> |
+| Collatz Conjecture                | If Statements - Numbers - While Loops     | <span style="color:lightcoral;">Not started</span> |
+| Phone Number                      |                                           | <span style="color:lightcoral;">Not started</span> |
+| Scrabble Score                    |                                           | <span style="color:lightcoral;">Not started</span> |
+| Meetup                            | Datetimes                                 | <span style="color:lightcoral;">Not started</span> |
+| Difference Of Squares             | Numbers                                   | <span style="color:lightcoral;">Not started</span> |
+| Resistor Color Duo                | Arrays                                    | <span style="color:lightcoral;">Not started</span> |
+| Resistor Color Trio               |                                           | <span style="color:lightcoral;">Not started</span> |
+| Series                            | Arrays - For Loops                        | <span style="color:lightcoral;">Not started</span> |
+| Sum Of Multiples                  | Numbers - Foreach Loops                   | <span style="color:lightcoral;">Not started</span> |
+| Accumulate                        | Extension Methods                         | <span style="color:lightcoral;">Not started</span> |
+| All Your Base                     | While Loops - Arrays                      | <span style="color:lightcoral;">Not started</span> |
+| Largest Series Product            |                                           | <span style="color:lightcoral;">Not started</span> |
+| Pascals Triangle                  |                                           | <span style="color:lightcoral;">Not started</span> |
+| Prime Factors                     | While Loops                               | <span style="color:lightcoral;">Not started</span> |
+| Pythagorean Triplet               | Tuples                                    | <span style="color:lightcoral;">Not started</span> |
+| Armstrong Numbers                 |                                           | <span style="color:lightcoral;">Not started</span> |
+| Darts                             | If Statements - Floating Point            | <span style="color:lightcoral;">Not started</span> |
+| Triangle                          | If Statements - Floating Point            | <span style="color:lightcoral;">Not started</span> |
+| Rational Numbers                  | Extension Methods                         | <span style="color:lightcoral;">Not started</span> |
+| Complex Numbers                   | Extension Methods                         | <span style="color:lightcoral;">Not started</span> |
+| Raindrops                         | If Statements                             | <span style="color:lightcoral;">Not started</span> |
+| Bottle Song                       |                                           | <span style="color:lightcoral;">Not started</span> |
+| Proverb                           | Arrays                                    | <span style="color:lightcoral;">Not started</span> |
+| Strain                            |                                           | <span style="color:lightcoral;">Not started</span> |
+| House                             |                                           | <span style="color:lightcoral;">Not started</span> |
+| Protein Translation               | While Loops                               | <span style="color:lightcoral;">Not started</span> |
+| Roman Numerals                    | Extension Methods - Numbers - While Loops | <span style="color:lightcoral;">Not started</span> |
+| Simple Cipher                     | Randomness - Classes                      | <span style="color:lightcoral;">Not started</span> |
+| Etl                               |                                           | <span style="color:lightcoral;">Not started</span> |
+| Parallel Letter Frequency         |                                           | <span style="color:lightcoral;">Not started</span> |
+| Alphametics                       |                                           | <span style="color:lightcoral;">Not started</span> |
+| Sieve                             | Arrays                                    | <span style="color:lightcoral;">Not started</span> |
+| Anagram                           | Strings - Classes - Arrays                | <span style="color:lightcoral;">Not started</span> |
+| Binary Search                     | Arrays - For Loops                        | <span style="color:lightcoral;">Not started</span> |
+| Kindergarten Garden               |                                           | <span style="color:lightcoral;">Not started</span> |
+| Secret Handshake                  |                                           | <span style="color:lightcoral;">Not started</span> |
+| Matrix                            | Classes - Arrays                          | <span style="color:lightcoral;">Not started</span> |
+| Crypto Square                     |                                           | <span style="color:lightcoral;">Not started</span> |
+| Food Chain                        | If Statements                             | <span style="color:lightcoral;">Not started</span> |
+| Minesweeper                       |                                           | <span style="color:lightcoral;">Not started</span> |
+| Scale Generator                   | Foreach Loops                             | <span style="color:lightcoral;">Not started</span> |
+| Tree Building                     | Classes                                   | <span style="color:lightcoral;">Not started</span> |
+| Change                            |                                           | <span style="color:lightcoral;">Not started</span> |
+| Rectangles                        | For Loops                                 | <span style="color:lightcoral;">Not started</span> |
+| Wordy                             |                                           | <span style="color:lightcoral;">Not started</span> |
+| Connect                           |                                           | <span style="color:lightcoral;">Not started</span> |
+| Sgf Parsing                       | Constructors                              | <span style="color:lightcoral;">Not started</span> |
+| Atbash Cipher                     | Foreach Loops                             | <span style="color:lightcoral;">Not started</span> |
+| Binary Search Tree                | Constructors                              | <span style="color:lightcoral;">Not started</span> |
+| Flatten Array                     | Foreach Loops                             | <span style="color:lightcoral;">Not started</span> |
+| List Ops                          |                                           | <span style="color:lightcoral;">Not started</span> |
+| Sublist                           |                                           | <span style="color:lightcoral;">Not started</span> |
+| Ledger                            |                                           | <span style="color:lightcoral;">Not started</span> |
+| OCR Numbers                       | Arrays - For Loops                        | <span style="color:lightcoral;">Not started</span> |
+| Saddle Points                     | Tuples                                    | <span style="color:lightcoral;">Not started</span> |
+| Palindrome Products               | Tuples                                    | <span style="color:lightcoral;">Not started</span> |
+| Hangman                           | Inheritance                               | <span style="color:lightcoral;">Not started</span> |
+| Two Bucket                        | Constructors                              | <span style="color:lightcoral;">Not started</span> |
+| Go Counting                       | Tuples                                    | <span style="color:lightcoral;">Not started</span> |
+| D&D Character                     | Randomness - Constructors                 | <span style="color:lightcoral;">Not started</span> |
+| Queen Attack                      | Constructors                              | <span style="color:lightcoral;">Not started</span> |
+| Robot Simulator                   | Constructors                              | <span style="color:lightcoral;">Not started</span> |
+| Bank Account                      | Floating Point                            | <span style="color:lightcoral;">Not started</span> |
+| Simple Linked List                |                                           | <span style="color:lightcoral;">Not started</span> |
+| Error Handling                    |                                           | <span style="color:lightcoral;">Not started</span> |
+| Affine Cipher                     | For Loops - Foreach Loops                 | <span style="color:lightcoral;">Not started</span> |
+| ISBN Verifier                     |                                           | <span style="color:lightcoral;">Not started</span> |
+| Twelve Days                       |                                           | <span style="color:lightcoral;">Not started</span> |
+| Word Count                        |                                           | <span style="color:lightcoral;">Not started</span> |
+| Yacht                             |                                           | <span style="color:lightcoral;">Not started</span> |
+| Dot Dsl                           | Classes                                   | <span style="color:lightcoral;">Not started</span> |
+| Linked List                       |                                           | <span style="color:lightcoral;">Not started</span> |
+| Diamond                           |                                           | <span style="color:lightcoral;">Not started</span> |
+| Grep                              | If Statements                             | <span style="color:lightcoral;">Not started</span> |
+| Luhn                              | For Loops                                 | <span style="color:lightcoral;">Not started</span> |
+| Markdown                          | If Statements                             | <span style="color:lightcoral;">Not started</span> |
+| State of Tic-Tac-Toe              | Arrays                                    | <span style="color:lightcoral;">Not started</span> |
+| Word Search                       | Tuples - Nullability - Constructors       | <span style="color:lightcoral;">Not started</span> |
+| Bowling                           | Nullability - Classes                     | <span style="color:lightcoral;">Not started</span> |
+| Rest Api                          |                                           | <span style="color:lightcoral;">Not started</span> |
+| Poker                             |                                           | <span style="color:lightcoral;">Not started</span> |
+| Run-Length Encoding               | Strings                                   | <span style="color:lightcoral;">Not started</span> |
+| Pig Latin                         |                                           | <span style="color:lightcoral;">Not started</span> |
+| Transpose                         | For Loops                                 | <span style="color:lightcoral;">Not started</span> |
+| Say                               | If Statements - While Loops               | <span style="color:lightcoral;">Not started</span> |
+| Book Store                        | Floating Point - For Loops                | <span style="color:lightcoral;">Not started</span> |
+| Custom Set                        | Constructors                              | <span style="color:lightcoral;">Not started</span> |
+| Nth Prime                         |                                           | <span style="color:lightcoral;">Not started</span> |
+| Rail Fence Cipher                 | Constructors                              | <span style="color:lightcoral;">Not started</span> |
+| Diffie Hellman                    | Randomness                                | <span style="color:lightcoral;">Not started</span> |
+| Zebra Puzzle                      |                                           | <span style="color:lightcoral;">Not started</span> |
+| React                             |                                           | <span style="color:lightcoral;">Not started</span> |
+| Pov                               |                                           | <span style="color:lightcoral;">Not started</span> |
+| Zipper                            |                                           | <span style="color:lightcoral;">Not started</span> |
+| Reverse String                    | Strings - For Loops                       | <span style="color:lightcoral;">Not started</span> |
+| Rna Transcription                 |                                           | <span style="color:lightcoral;">Not started</span> |
+| Conway's Game of Life             |                                           | <span style="color:lightcoral;">Not started</span> |
+| Eliud's Eggs                      |                                           | <span style="color:lightcoral;">Not started</span> |
+| Knapsack                          | Tuples                                    | <span style="color:lightcoral;">Not started</span> |
+| Square Root                       | While Loops                               | <span style="color:lightcoral;">Not started</span> |
+| Killer Sudoku Helper              | Arrays                                    | <span style="color:lightcoral;">Not started</span> |
+| Satellite                         | For Loops                                 | <span style="color:lightcoral;">Not started</span> |
+| Intergalactic Transmission        | For Loops                                 | <span style="color:lightcoral;">Not started</span> |
+| Split-Second Stopwatch            | Classes - Datetimes                       | <span style="color:lightcoral;">Not started</span> |
+| Baffling Birthdays                | Randomness - Datetimes                    | <span style="color:lightcoral;">Not started</span> |
+| Swift Scheduling                  | Datetimes                                 | <span style="color:lightcoral;">Not started</span> |
