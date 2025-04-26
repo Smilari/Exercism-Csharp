@@ -3,6 +3,16 @@
 My solutions for C# track at [Exercism](https://exercism.org/profiles/Smilari).
 
 ## 📖 Progress
+> [!NOTE]  
+> The order is based in the [exercism's C#track](https://exercism.org/tracks/csharp)  
+
+> [!IMPORTANT]  
+> Every exercise contains the following files: 
+> - **README.md:** the instructions for the exercise.
+> - **HELP.md:** information on how to run the tests.
+> - **HINTS.md:** hints to help solve the exercise.
+> - **Test file(s):** contain the tests that verify your solution's correctness.
+> - **Stub file(s):** provide a starting point to help you get started with the implementation.
 
 | Exercise                          | Category                                  | Status |
 | --------------------------------- | ----------------------------------------- | ------ |
