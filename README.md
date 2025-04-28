@@ -21,7 +21,7 @@ My solutions for C# track at [Exercism](https://exercism.org/profiles/Smilari).
 | Lucian's Luscious Lasagna         | Basics                                    | ✅      |
 | Annalyn's Infiltration            | Booleans                                  | ✅      |
 | Secure Munchester United          |                                           | ❌      |
-| Squeaky Clean                     |                                           | ❌      |
+| Squeaky Clean                     | Chars - String Builder                    | ✅      |
 | Jedlik's Toys                     | Classes                                   | ✅      |
 | Authentication System             |                                           | ❌      |
 | Need for Speed                    | Constructors                              | ✅      |
@@ -40,7 +40,7 @@ My solutions for C# track at [Exercism](https://exercism.org/profiles/Smilari).
 | Red vs. Blue: Darwin Style        |                                           | ❌      |
 | Remote Control Cleanup            |                                           | ❌      |
 | Tim from Marketing                | Nullability                               | ✅      |
-| Cars, Assemble!                   | If Statements                             | ✅      |
+| Cars, Assemble!                   | If Statements - Numbers                   | ✅      |
 | Developer Privileges              |                                           | ❌      |
 | Hyperia Forex                     |                                           | ❌      |
 | Hyperinflation Hits Hyperia       |                                           | ❌      |
