@@ -33,7 +33,7 @@ My solutions for C# track at [Exercism](https://exercism.org/profiles/Smilari).
 | The Weather in Deather            |                                           | ❌      |
 | Interest is Interesting           | Do While Loops - Floating Point           | ✅      |
 | Wizards and Warriors              | Inheritance                               | ✅      |
-| Hyper-optimized Telemetry         |                                           | ❌      |
+| Hyper-optimized Telemetry         | Integral Numbers                          | ✅      |
 | Remote Control Competition        |                                           | ❌      |
 | Tracks on Tracks on Tracks        |                                           | ❌      |
 | Wizards and Warriors 2.0          |                                           | ❌      |
