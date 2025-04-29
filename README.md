@@ -25,7 +25,7 @@ My solutions for C# track at [Exercism](https://exercism.org/profiles/Smilari).
 | Jedlik's Toys                     | Classes                                   | ✅      |
 | Authentication System             |                                           | ❌      |
 | Need for Speed                    | Constructors                              | ✅      |
-| Booking up for Beauty             | Datetimes                                 | ❌      |
+| Booking up for Beauty             | Datetimes                                 | ✅      |
 | International Calling Connoisseur |                                           | ❌      |
 | Logs, Logs, Logs!                 |                                           | ❌      |
 | Face ID 2.0                       |                                           | ❌      |
