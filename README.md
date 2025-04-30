@@ -35,7 +35,7 @@ My solutions for C# track at [Exercism](https://exercism.org/profiles/Smilari).
 | Wizards and Warriors              | Inheritance                               | ✅      |
 | Hyper-optimized Telemetry         | Integral Numbers                          | ✅      |
 | Remote Control Competition        |                                           | ❌      |
-| Tracks on Tracks on Tracks        |                                           | ❌      |
+| Tracks on Tracks on Tracks        | Generic Types - Lists                     | ✅      |
 | Wizards and Warriors 2.0          |                                           | ❌      |
 | Red vs. Blue: Darwin Style        |                                           | ❌      |
 | Remote Control Cleanup            |                                           | ❌      |
