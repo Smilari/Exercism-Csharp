@@ -26,7 +26,7 @@ My solutions for C# track at [Exercism](https://exercism.org/profiles/Smilari).
 | Authentication System             |                                           | ❌      |
 | Need for Speed                    | Constructors                              | ✅      |
 | Booking up for Beauty             | Datetimes                                 | ✅      |
-| International Calling Connoisseur |                                           | ❌      |
+| International Calling Connoisseur | Dictionaries                              | ✅      |
 | Logs, Logs, Logs!                 |                                           | ❌      |
 | Face ID 2.0                       |                                           | ❌      |
 | Calculator Conundrum              |                                           | ❌      |
