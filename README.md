@@ -53,7 +53,7 @@ My solutions for C# track at [Exercism](https://exercism.org/profiles/Smilari).
 | High School Sweethearts           |                                           | ❌      |
 | Log Levels                        | Strings                                   | ✅      |
 | Land Grab in Space                |                                           | ❌      |
-| Football Match Reports            |                                           | ❌      |
+| Football Match Reports            | Switch Statements                         | ✅      |
 | Beauty Salon Goes Global          |                                           | ❌      |
 | Phone Number Analysis             | Tuples                                    | ✅      |
 | Instruments of Texas              |                                           | ❌      |
